@@ -69,4 +69,6 @@ augur translate \
   --colors config/colors.tsv \
   --lat-longs config/lat_longs.tsv \
   --auspice-config config/auspice_config.json \
-  --output auspice/Augusta.json 
+  --output auspice/Augusta.json
+  
+  
